@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "lib": ["ES2015"],
+      "types": ["node"],
+      "target": "es2016",   
+      "outDir": "./dist",
+      "module": "commonjs",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    },
+    "include": ["src/**/*.ts"]
+}
+  
